@@ -1,4 +1,4 @@
-# SEE Repo
+# SEE
 This repository introduces the self-evaluated-expertise (SEE) measure in experimental physics, a measure of student's physics self-recognition. 
 
 ## Preliminaries
