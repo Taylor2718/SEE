@@ -11,6 +11,6 @@ git clone https://github.com/Lewandowski-Labs-PER/eclass-public.git
 ## Outline
 The repo produces the following routines and figures as seen in the paper:
 
-1) Donwload and plots the latest ECLASS data (`ECLASS-Violin-Plots.r`)
+1) Donwload and plot the latest ECLASS data (`ECLASS-Violin-Plots.r`)
 2) Filter the SEE data (`SEE-Filtering.ipynb`)
 3) Compare and analyse the connection of ECLASS to SEE.
